@@ -51,7 +51,7 @@
 
 <!-- FL Studio 21 -->
 <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FL_Studio_Logo.svg/1200px-FL_Studio_Logo.svg.png" alt="FL Studio" width="40" height="40"/> 
+  <img src="https://www.image-line.com/static/assets/nav-logo-fruit.41db863.png" alt="FL Studio" width="40" height="40"/> 
 </a>
 
 <!-- Xmind -->
@@ -61,7 +61,7 @@
 
 <!-- Ibis Paint X -->
 <a href="https://ibispaint.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IbisPaint_X_Logo.svg/1200px-IbisPaint_X_Logo.svg.png" alt="Ibis Paint X" width="40" height="40"/> 
+  <img src="https://store-images.s-microsoft.com/image/apps.28383.14202576542330599.e2a21905-d839-4a08-a9e2-42b2b28b331d.fe8f4307-30e2-4bf4-b5e6-c0be25fcea8b?h=307" alt="Ibis Paint X" width="40" height="40"/> 
 </a>
 
 <!-- RenPy -->
