@@ -66,7 +66,7 @@
 
 <!-- RenPy -->
 <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.renpy.org/static/img/renpy.png" alt="RenPy" width="40" height="40"/> 
+  <img src="https://www.renpy.org/static/index-logo.png" alt="RenPy" width="40" height="40"/> 
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=integrity-constraint&show_icons=true&locale=en&layout=compact" alt="integrity-constraint" /></p>
