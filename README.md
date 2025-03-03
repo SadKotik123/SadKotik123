@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=integrity-constraint&show_icons=true&locale=en" alt="integrity-constraint" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=integrity-constraint&" alt="integrity-constraint" /></p>
 
