@@ -56,7 +56,7 @@
 
 <!-- Xmind -->
 <a href="https://www.xmind.net/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Xmind_Logo_2020.svg/1200px-Xmind_Logo_2020.svg.png" alt="Xmind" width="40" height="40"/> 
+  <img src="https://assets.xmind.net/www/assets/images/new-xmind-logo-dark-60f56e9142.svg" alt="Xmind" width="40" height="40"/> 
 </a>
 
 <!-- Ibis Paint X -->
