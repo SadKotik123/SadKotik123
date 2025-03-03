@@ -46,7 +46,7 @@
 
 <!-- 1C -->
 <a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1C_logo.svg/1200px-1C_logo.svg.png](https://static.1c.ru/images/logo.png)" alt="1C" width="40" height="40"/> 
+  <img src="https://static.1c.ru/images/logo.png" alt="1C" width="40" height="40"/> 
 </a>
 
 <!-- FL Studio 21 -->
